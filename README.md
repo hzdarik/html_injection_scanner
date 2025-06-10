@@ -79,4 +79,4 @@ This tool is intended **for educational and authorized security testing purposes
 
 ## Author
 
-Developed by \[hzdarik] — Bug bounty hunter and security enthusiast 🛡️
+Developed by \hzdarik — Bug bounty hunter and security enthusiast 🛡️
